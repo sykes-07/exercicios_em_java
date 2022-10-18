@@ -13,7 +13,7 @@ public class NumInteiro {
             System.out.println(i);
         }
 
-        input.close();
+        input.close();  
 
 
     }
