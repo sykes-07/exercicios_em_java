@@ -15,7 +15,7 @@ public class Teste {
     
     //Iterate over elements in dictionary
     System.out.println("Iterating using enumeration:");
-    Enumeration<String> e = dic.elements();
+    Enumeration<String> e = dic.elements(); 
     while(e.hasMoreElements())
       System.out.print(e.nextElement() + " ");
     
